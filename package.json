@@ -1,0 +1,16 @@
+{
+  "name": "asmaa-car-racing-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asmaa Farahat's multiplayer differentiated racing classroom game; zero runtime dependencies",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js",
+    "test": "node smoke_test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

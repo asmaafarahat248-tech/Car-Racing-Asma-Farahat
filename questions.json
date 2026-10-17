@@ -1,0 +1,170 @@
+{
+  "teamNames": [
+    "GREEN",
+    "BLUE",
+    "RED"
+  ],
+  "banks": [
+    [
+      {
+        "type": "mcq",
+        "question": "Choose the correct sentence.",
+        "options": [
+          "She go to school.",
+          "She goes to school.",
+          "She going school.",
+          "She gone school."
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "type": "mcq",
+        "question": "What is the opposite of hot?",
+        "options": [
+          "Cold",
+          "Warm",
+          "Sunny",
+          "Big"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "type": "order",
+        "question": "Put the words in the correct order.",
+        "tokens": [
+          "She",
+          "goes",
+          "to",
+          "school."
+        ],
+        "explanation": "Subject + verb + place."
+      },
+      {
+        "type": "mcq",
+        "question": "Which word is a colour?",
+        "options": [
+          "Jump",
+          "Quick",
+          "Blue",
+          "Walk"
+        ],
+        "answer": 3,
+        "explanation": ""
+      }
+    ],
+    [
+      {
+        "type": "mcq",
+        "question": "What is the past tense of go?",
+        "options": [
+          "Going",
+          "Goes",
+          "Went",
+          "Goed"
+        ],
+        "answer": 3,
+        "explanation": ""
+      },
+      {
+        "type": "mcq",
+        "question": "Choose the adjective.",
+        "options": [
+          "Beautiful",
+          "Slowly",
+          "Run",
+          "Yesterday"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "type": "mcq",
+        "question": "Complete: They ___ playing now.",
+        "options": [
+          "is",
+          "was",
+          "are",
+          "be"
+        ],
+        "answer": 3,
+        "explanation": ""
+      },
+      {
+        "type": "match",
+        "question": "Match the word to the meaning.",
+        "pairs": [
+          {
+            "left": "huge",
+            "right": "very big"
+          },
+          {
+            "left": "tiny",
+            "right": "very small"
+          },
+          {
+            "left": "brave",
+            "right": "not afraid"
+          }
+        ],
+        "explanation": "Match each vocabulary word to its definition."
+      }
+    ],
+    [
+      {
+        "type": "mcq",
+        "question": "Choose the sentence with the correct present perfect.",
+        "options": [
+          "I have finished my work.",
+          "I has finish my work.",
+          "I have finish my work.",
+          "I finished have my work."
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "type": "mcq",
+        "question": "Which sentence contains a metaphor?",
+        "options": [
+          "The wind is cold.",
+          "The classroom was a zoo.",
+          "The girl ran fast.",
+          "The bus arrived early."
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "type": "mcq",
+        "question": "What is an inference?",
+        "options": [
+          "A direct quotation",
+          "A guess based on clues",
+          "A topic sentence",
+          "A list of facts"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "type": "mcq",
+        "question": "Which statement shows cause and effect?",
+        "options": [
+          "The sky was blue.",
+          "I wore red shoes.",
+          "Because it rained, the match was canceled.",
+          "The book had ten chapters."
+        ],
+        "answer": 3,
+        "explanation": ""
+      }
+    ]
+  ],
+  "timer": 15,
+  "raceSeconds": 60,
+  "questionQuota": 1,
+  "raceDistance": 600,
+  "theme": "DAY"
+}

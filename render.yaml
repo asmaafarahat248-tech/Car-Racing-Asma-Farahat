@@ -1,0 +1,13 @@
+# Deploy as a Render Web Service connected to your repository.
+# Keep only ONE service instance: rooms are in memory for live real-time matches.
+services:
+  - type: web
+    name: asmaa-car-racing-live
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
